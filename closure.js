@@ -12,5 +12,3 @@ var outerScope = parent;
 var innerScope = outerScope();
 
 innerScope();
-
-
